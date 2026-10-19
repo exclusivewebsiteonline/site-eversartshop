@@ -404,3 +404,8 @@ html.modal-open { overflow: hidden; }
   .t-track { scroll-behavior: auto; }
   .t-dot::before { transition: none; }
 }
+
+/* EWO Editor: signup offer + code */
+.ewo-offer { font-weight: 700; margin-top: .6rem; }
+.ewo-code { margin: .8rem 0; font-size: 1.05rem; }
+.ewo-code strong { letter-spacing: .06em; padding: .15em .55em; border: 1.5px dashed currentColor; border-radius: 6px; }

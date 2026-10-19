@@ -1,0 +1,108 @@
+{
+ "v": 1,
+ "slug": "eversartshop",
+ "shop": "Evers Art Shop",
+ "rev": "",
+ "story": {
+  "intro": "From a small farming community in California, I came to the big city and earned a BFA in Ceramics. I’m living the dream of teaching pottery to students of every age while concentrating on my own practice and growth.",
+  "heading": "Falling in love with the pottery process",
+  "paragraphs": [
+   "When taking a random pottery class at Cuesta College in San Luis Obispo, CA, I knew I had fallen in love with the process. I was getting my welding degree at the time and had a weird obsession with extreme heat. I ended up getting my degree but then figuring out how to continue my life with ceramics.",
+   "The fact that you can bring something into existence by using clay totally intrigued me. Of course, the thousands of degrees Fahrenheit needed to fire the work was also super exciting. Then again, maybe watching liquid glaze turn to glass was my favorite part. Who am I kidding? I love the entire process!"
+  ],
+  "madeHeading": "By hand, in Long Beach, California",
+  "made": "Every piece is handmade by Jazmin — wheel-thrown, glazed, and fired with the same care that first pulled her away from welding and into clay."
+ },
+ "signup": {
+  "text": "Sign up to be the first to know about sales and new products.",
+  "offer": "",
+  "code": ""
+ },
+ "reviews": [
+  {
+   "name": "Jocelynn",
+   "text": "This is a beautifully crafted mug… she was so thoughtful and made me feel like I was heard. I ultimately got 2 of her mugs and am impressed with both. Highly recommend this seller.",
+   "stars": 5
+  },
+  {
+   "name": "Kelsey",
+   "text": "This was my second ghost I bought from this seller. Best customer service ever! Super friendly and kind enough to even chat with me for a bit, definitely very personable! Recommend her 1000x over!…",
+   "stars": 5
+  },
+  {
+   "name": "Alex",
+   "text": "These small clay pinch pots exceeded my expectations! Beautifully made, sturdy, and even more charming in person. The craftsmanship is excellent, and they arrived carefully packaged. Very happy with my purchase!",
+   "stars": 5
+  },
+  {
+   "name": "Eddie",
+   "text": "Great communication with seller, speedy shipping and delivery. Great quality product with exceptional details on the artwork. Spitting image of the model used.",
+   "stars": 5
+  },
+  {
+   "name": "Danny",
+   "text": "absolutely perfect! and You have brindle as an option for Bostons which is so hard for me to find. I got it for my mom as a birthday gift and she was so EXCITED about it! 10/10",
+   "stars": 5
+  },
+  {
+   "name": "Meghan",
+   "text": "Jazmin was so responsive, and make my ordering process SO easy!! I will definitely be keeping an eye in her shop and ordering again in the future!",
+   "stars": 5
+  },
+  {
+   "name": "Heather",
+   "text": "…These are so cute just what i was hoping for, and thank you so much for the beautiful gift. Makes me want to play with clay",
+   "stars": 5
+  }
+ ],
+ "photos": {
+  "hero": {
+   "src": "img/hero.webp",
+   "w": 1280,
+   "h": 850,
+   "label": "Handmade pottery and studio life at Evers Art Shop"
+  },
+  "owner": {
+   "src": "img/owner.webp",
+   "w": 700,
+   "h": 875,
+   "label": "Jazmin Evers, the potter behind Evers Art Shop"
+  },
+  "story": {
+   "src": "img/story.webp",
+   "w": 720,
+   "h": 900,
+   "label": "Jazmin in the pottery studio with finished work"
+  },
+  "process": {
+   "src": "img/process.webp",
+   "w": 1000,
+   "h": 667,
+   "label": "Pottery in progress at Evers Art Shop"
+  },
+  "cat-mugs": {
+   "src": "img/cat-mugs.webp",
+   "w": 870,
+   "h": 650,
+   "label": "Handmade ceramic mug from Evers Art Shop"
+  },
+  "cat-bowls": {
+   "src": "img/cat-bowls.webp",
+   "w": 870,
+   "h": 650,
+   "label": "Handmade ceramic bowl from Evers Art Shop"
+  },
+  "cat-vases": {
+   "src": "img/cat-vases.webp",
+   "w": 870,
+   "h": 650,
+   "label": "Handmade ceramic vase from Evers Art Shop"
+  },
+  "cat-pet": {
+   "src": "img/cat-pet.webp",
+   "w": 870,
+   "h": 650,
+   "label": "Handmade pet pottery from Evers Art Shop"
+  }
+ }
+}
