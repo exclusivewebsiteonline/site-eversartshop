@@ -2,7 +2,7 @@
  "v": 1,
  "slug": "eversartshop",
  "shop": "Evers Art Shop",
- "rev": "261019132548",
+ "rev": "261019132627",
  "story": {
   "intro": "From a small farming community in California, I came to the big city and earned a BFA in Ceramics. I’m living the dream of teaching pottery to students of every age while concentrating on my own practice and growth. (editor test)",
   "heading": "Falling in love with the pottery process",
@@ -57,7 +57,7 @@
  ],
  "photos": {
   "hero": {
-   "src": "img/hero-261019132548.webp",
+   "src": "img/hero.webp",
    "w": 1280,
    "h": 850,
    "label": "Handmade pottery and studio life at Evers Art Shop"
