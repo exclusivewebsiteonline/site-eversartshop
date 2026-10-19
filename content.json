@@ -2,9 +2,9 @@
  "v": 1,
  "slug": "eversartshop",
  "shop": "Evers Art Shop",
- "rev": "261019132627",
+ "rev": "261019132630",
  "story": {
-  "intro": "From a small farming community in California, I came to the big city and earned a BFA in Ceramics. I’m living the dream of teaching pottery to students of every age while concentrating on my own practice and growth. (editor test)",
+  "intro": "From a small farming community in California, I came to the big city and earned a BFA in Ceramics. I’m living the dream of teaching pottery to students of every age while concentrating on my own practice and growth.",
   "heading": "Falling in love with the pottery process",
   "paragraphs": [
    "When taking a random pottery class at Cuesta College in San Luis Obispo, CA, I knew I had fallen in love with the process. I was getting my welding degree at the time and had a weird obsession with extreme heat. I ended up getting my degree but then figuring out how to continue my life with ceramics.",
@@ -15,8 +15,8 @@
  },
  "signup": {
   "text": "Sign up to be the first to know about sales and new products.",
-  "offer": "Get 10% off your first order.",
-  "code": "HELLO10"
+  "offer": "",
+  "code": ""
  },
  "reviews": [
   {
